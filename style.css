@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+
+body {
+    background-image: url(https://i.pinimg.com/originals/c3/c0/28/c3c0285e3ea5a375002de5a1da62e6d1.jpg);
+    padding: 40px;
+    background-size: contain;
+    background-position: center;
+
+}
+
+#main {
+    background-color: rgb(255, 255, 0, 0.5);
+    padding: 40px;
+
+
+
+}
+
+.main2 {
+    padding: 30px;
+    background-color: rgb(0, 255, 255, 0.9);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-weight: 1000;
+    text-decoration: overline;
+    border-left: solid red;
+    border-right: 10px solid black;
+    border-top: solid green;
+    border-bottom: solid grey;
+    border-radius: 20px;
+    background-color: cadetblue;
+    margin-top: 1px;
+    letter-spacing: 50px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.link {
+
+    display: inline-block;
+    justify-content: center;
+    text-decoration: none;
+    color: red;
+    border: 15px yellow;
+    background: yellow;
+    padding: 30px;
+    margin-left: 30%;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 10px;
+
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+
+
+}
+
+.p2 {
+    text-transform: uppercase;
+    background-color: blue;
+    color: white;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+#img1 {
+    display: inline-block;
+    width: 500px;
+    margin: 10px;
+}
